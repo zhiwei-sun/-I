@@ -1,4 +1,4 @@
-# -I
+# 可用于继电器电路设计的AI prompt
 可用于继电器电路设计的AI prompt。
 作为system prompt装载到ChatGPT/Grok/Gemini上。
 随后输入需求。
